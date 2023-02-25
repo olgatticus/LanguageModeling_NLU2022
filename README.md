@@ -1,6 +1,6 @@
 # Language Modeling with RNNs
 
-Final project for the *Natural Language Understanding* course at University of Trento.
+Final project for the *Natural Language Understanding* course at University of Trento (M.Sc. Artificial Intelligence Systems).
 
 ## Description
 
